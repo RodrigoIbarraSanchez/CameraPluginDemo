@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Applications/MAMP/htdocs/CameraPluginDemo/www/lib/ionic/js/ionic.min.js"
+    ]
+}
