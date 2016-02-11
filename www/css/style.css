@@ -1,1 +1,9 @@
-/* Empty. Add your own CSS if you like */
+body {
+    margin: 0;
+    padding: 0;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

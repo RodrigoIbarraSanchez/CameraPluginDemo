@@ -27,7 +27,7 @@ exampleApp.controller("ExampleController", function ($scope, $cordovaCamera) {
 
   $scope.takePicture = function () {
     var options = {
-      quality: 75,
+      quality: 200,
       destinationType: Camera.DestinationType.DATA_URL,
       sourceType: Camera.PictureSourceType.CAMERA,
       allowEdit: true,
